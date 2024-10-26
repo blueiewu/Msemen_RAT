@@ -1,12 +1,13 @@
 
 ```
-        :::   :::    ::::::::  ::::::::::   :::   :::   :::::::::: ::::    :::            :::::::::      ::: ::::::::::: 
-      :+:+: :+:+:  :+:    :+: :+:         :+:+: :+:+:  :+:        :+:+:   :+:            :+:    :+:   :+: :+:   :+:      
-    +:+ +:+:+ +:+ +:+        +:+        +:+ +:+:+ +:+ +:+        :+:+:+  +:+            +:+    +:+  +:+   +:+  +:+       
-   +#+  +:+  +#+ +#++:++#++ +#++:++#   +#+  +:+  +#+ +#++:++#   +#+ +:+ +#+            +#++:++#:  +#++:++#++: +#+        
-  +#+       +#+        +#+ +#+        +#+       +#+ +#+        +#+  +#+#+#            +#+    +#+ +#+     +#+ +#+         
- #+#       #+# #+#    #+# #+#        #+#       #+# #+#        #+#   #+#+#            #+#    #+# #+#     #+# #+#          
-###       ###  ########  ########## ###       ### ########## ###    #### ########## ###    ### ###     ### ###           
+
+  __              __.__                __________    ________________
+_/  |______      |__|__| ____   ____   \______   \  /  _  \__    ___/
+\   __\__  \     |  |  |/    \_/ __ \   |       _/ /  /_\  \|    |   
+ |  |  / __ \_   |  |  |   |  \  ___/   |    |   \/    |    \    |   
+ |__| (____  /\__|  |__|___|  /\___  >  |____|_  /\____|__  /____|   
+           \/\______|       \/     \/          \/         \/         
+
 ```
 ## Overview
 This README file provides information about the RAT (Remote Access Trojan) tool. The RAT tool is a malicious software that allows an attacker to gain unauthorized access to a victim's computer. It provides the attacker with remote control over the victim's system, enabling them to perform various actions such as viewing files, capturing keystrokes, taking screenshots, and more.
