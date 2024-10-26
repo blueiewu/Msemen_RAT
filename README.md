@@ -7,7 +7,7 @@
                                  ▄▓╫▓▓▓▓▓▓▓▓╫▓▄
                                ▄▓╫▓▓▓▓▓▓▓▓▓▓▓▓╫▓▄
                            ▄▓╫▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╫▓▄       
-                         ▄▓▌▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╫▌▄          ###@RAT
+                         ▄▓▌▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╫▌▄           @RAT
                      ▄▓░H╙▀╣▓▒╢╬╣▓▓▀▀▀▀▀▀▀▀▀▀▓▓▓╣╣╬▓▓▀▀»╨▓▄
                    ▄▓ÑÑ░»,»»»»▐╙▀▀▀M▀▀▀▀▀▀▀▀╩▀▀▀▀░░»»»╓╦»╫Ü▀▄
                ╓▓╟╫M╗╬╫╫Ñ╦╬╬╬░░»;╗╦▄╙▌╟N¡╙╫N▄¿]╬]▄╚╨╬@░╫ÅÑ╬▓ÜH╙╣▄
@@ -24,7 +24,7 @@
                               ``""""╙╙╙╙╙╙╙╙""""`` 
 
 ```
-##Coming Soon
+## Coming Soon
 
 ## Overview
 This README file provides information about the RAT (Remote Access Trojan) tool. The RAT tool is a malicious software that allows an attacker to gain unauthorized access to a victim's computer. It provides the attacker with remote control over the victim's system, enabling them to perform various actions such as viewing files, capturing keystrokes, taking screenshots, and more.
